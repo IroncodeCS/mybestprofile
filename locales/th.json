@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "หน้าหลัก",
+    "about": "เกี่ยวกับ",
+    "skill": "ทักษะ",
+    "portfolio": "ผลงาน",
+    "experience": "ประสบการณ์",
+    "education": "การศึกษา",
+    "blog": "บล๊อก",
+    "references": "อ้างอิง",
+    "contact": "ติดต่อ",
+    "english": "EN",
+    "thai": "TH"
+  },
+  "home": {
+    "title": "ยินดีต้อนรับ",
+    "introduction": "ทดสอบ libs i18n"
+  },
+  "about": {
+    "title": "หน้า เกี่ยวกับ",
+    "introduction": "ทดสอบๆๆ"
+  }
+}

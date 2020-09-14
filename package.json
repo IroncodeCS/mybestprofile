@@ -1,0 +1,19 @@
+{
+  "name": "mybestprofile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IroncodeCS/mybestprofile.git",
+  "author": "sarayut khamkhiao <sarayut@thinknet.co.th>",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.14.4",
+    "vue": "^2.6.12",
+    "vue-i18n": "^8.21.0"
+  }
+}

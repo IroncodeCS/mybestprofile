@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "skill": "Skill",
+    "portfolio": "Portfolio",
+    "experience": "Experience",
+    "education": "Education",
+    "blog": "Blog",
+    "references": "References",
+    "contact": "Contact",
+    "english": "EN",
+    "thai": "TH"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  }
+}
